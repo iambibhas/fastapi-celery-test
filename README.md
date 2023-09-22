@@ -10,5 +10,4 @@ Spin up the containers:
 $ docker-compose up -d --build
 ```
 
-Open your browser to [http://localhost:8004](http://localhost:8004)
-# fastapi-celery-test
+Open your browser to [http://localhost:8014](http://localhost:8014)
